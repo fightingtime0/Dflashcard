@@ -1,0 +1,718 @@
+{
+    "decks": {
+        "Bahasa Jepang ": [
+            {
+                "id": "8ea42b9d-03ff-4cdd-8b90-f3c0e4a59e02",
+                "front": "水（みず）",
+                "back": "Air",
+                "extra": "毎朝、水を飲みます。 (Saya minum air setiap pagi.)",
+                "level": 0
+            },
+            {
+                "id": "8be8b59d-7d79-4437-b96c-98dd1874fdd3",
+                "front": "猫（ねこ）",
+                "back": "Kucing",
+                "extra": "あの猫はとてもかわいいです。 (Kucing itu sangat lucu.)",
+                "level": 0
+            },
+            {
+                "id": "78c99ec7-9be0-424c-8cb7-05f621160144",
+                "front": "本（ほん）",
+                "back": "Buku",
+                "extra": "電車で本を読みます。 (Saya membaca buku di kereta.)",
+                "level": 0
+            },
+            {
+                "id": "d218bde6-5562-4f90-ade0-2adcec11c775",
+                "front": "人（ひと）",
+                "back": "Orang",
+                "extra": "あの人は私の友だちです。 (Orang itu adalah teman saya.)",
+                "level": 0
+            },
+            {
+                "id": "8634343f-5c2e-47f0-9da1-3627263bea4b",
+                "front": "友だち（ともだち）",
+                "back": "Teman",
+                "extra": "今日、友だちと会います。 (Hari ini saya bertemu teman.)",
+                "level": 1
+            },
+            {
+                "id": "4478a411-b77c-429d-a058-5e5b3da62f20",
+                "front": "家（いえ）",
+                "back": "Rumah",
+                "extra": "授業のあと、家に帰ります。 (Setelah kelas, saya pulang ke rumah.)",
+                "level": 0
+            },
+            {
+                "id": "66b4ce92-87d2-4f42-a05a-b21351c9e7be",
+                "front": "学校（がっこう）",
+                "back": "Sekolah",
+                "extra": "妹は毎日学校へ行きます。 (Adik perempuan saya pergi ke sekolah setiap hari.)",
+                "level": 0
+            },
+            {
+                "id": "06ca6842-9e12-4ab3-ab48-29c06505b742",
+                "front": "先生（せんせい）",
+                "back": "Guru",
+                "extra": "先生に質問しました。 (Saya bertanya kepada guru.)",
+                "level": 0
+            },
+            {
+                "id": "2b2c4e3d-34fa-496c-b7bd-1aa106c9dc56",
+                "front": "学生（がくせい）",
+                "back": "Mahasiswa/Pelajar",
+                "extra": "私は大学の学生です。 (Saya adalah mahasiswa.)",
+                "level": 0
+            },
+            {
+                "id": "3388d110-93ef-47d9-a596-64842e2f52d7",
+                "front": "今日（きょう）",
+                "back": "Hari ini",
+                "extra": "今日は少し忙しいです。 (Hari ini saya sedikit sibuk.)",
+                "level": 0
+            },
+            {
+                "id": "cbaa2dc8-9a1a-42a3-ae38-f83e6293025e",
+                "front": "明日（あした）",
+                "back": "Besok",
+                "extra": "明日、映画を見ます。 (Besok saya menonton film.)",
+                "level": 0
+            },
+            {
+                "id": "243e9dec-1b8e-4a2e-bfa1-6e297eb1e561",
+                "front": "昨日（きのう）",
+                "back": "Kemarin",
+                "extra": "昨日、友だちと話しました。 (Kemarin saya berbicara dengan teman.)",
+                "level": 0
+            },
+            {
+                "id": "ebdff73c-97c1-4a8f-8e69-376785d92623",
+                "front": "朝（あさ）",
+                "back": "Pagi",
+                "extra": "朝にコーヒーを飲みます。 (Saya minum kopi pada pagi hari.)",
+                "level": 1
+            },
+            {
+                "id": "ce41d78d-466f-41a6-9ba3-edfce4b8bbc0",
+                "front": "昼（ひる）",
+                "back": "Siang",
+                "extra": "昼ごはんを食べましょう。 (Ayo makan siang.)",
+                "level": 1
+            },
+            {
+                "id": "157bdf5e-cc3a-42e5-89c4-bdf849a3e725",
+                "front": "夜（よる）",
+                "back": "Malam",
+                "extra": "夜は家で勉強します。 (Malam hari saya belajar di rumah.)",
+                "level": 1
+            },
+            {
+                "id": "1776d9cf-58ec-4e21-9cd3-e1698b586ee2",
+                "front": "今（いま）",
+                "back": "Sekarang",
+                "extra": "今、何をしていますか。 (Sekarang kamu sedang apa?)",
+                "level": 0
+            },
+            {
+                "id": "19aca5b3-0dc9-45bf-b394-b2a73f637e76",
+                "front": "ご飯（ごはん）",
+                "back": "Nasi/Makanan",
+                "extra": "一緒にご飯を食べませんか。 (Mau makan bersama?)",
+                "level": 1
+            },
+            {
+                "id": "33fa16c3-b748-45b1-a021-4c66a818350e",
+                "front": "お茶（おちゃ）",
+                "back": "Teh",
+                "extra": "あたたかいお茶をください。 (Tolong berikan teh hangat.)",
+                "level": 0
+            },
+            {
+                "id": "293132b5-63b8-402f-845e-5f7a2c57a0f6",
+                "front": "コーヒー",
+                "back": "Kopi",
+                "extra": "朝はよくコーヒーを飲みます。 (Pagi hari saya sering minum kopi.)",
+                "level": 0
+            },
+            {
+                "id": "f3308792-76a8-4ef4-ae64-c18f38733f07",
+                "front": "食べる（たべる）",
+                "back": "Makan",
+                "extra": "昼にパンを食べます。 (Saya makan roti pada siang hari.)",
+                "level": 0
+            },
+            {
+                "id": "72c31e1c-c922-4fb7-aee5-5c6ba8684104",
+                "front": "飲む（のむ）",
+                "back": "Minum",
+                "extra": "暑いので水を飲みます。 (Karena panas, saya minum air.)",
+                "level": 0
+            },
+            {
+                "id": "94b727d8-7f79-4146-ac8e-f53f45beb5cb",
+                "front": "行く（いく）",
+                "back": "Pergi",
+                "extra": "週末にカフェへ行きます。 (Akhir pekan saya pergi ke kafe.)",
+                "level": 1
+            },
+            {
+                "id": "0f92627a-5d09-47b5-afb6-c5f0c80f0298",
+                "front": "来る（くる）",
+                "back": "Datang",
+                "extra": "友だちが家に来ます。 (Teman saya datang ke rumah.)",
+                "level": 1
+            },
+            {
+                "id": "dcb4eda3-7f44-4016-b6b5-6eadca07570b",
+                "front": "帰る（かえる）",
+                "back": "Pulang",
+                "extra": "今日は早く帰ります。 (Hari ini saya pulang cepat.)",
+                "level": 0
+            },
+            {
+                "id": "721346e1-04d4-4675-89df-de6dad5a0e9a",
+                "front": "見る（みる）",
+                "back": "Melihat/Menonton",
+                "extra": "夜にドラマを見ます。 (Malam hari saya menonton drama.)",
+                "level": 1
+            },
+            {
+                "id": "1fbbaeae-e0fd-476a-9beb-3c5464c6d021",
+                "front": "聞く（きく）",
+                "back": "Mendengar/Bertanya",
+                "extra": "音楽を聞きながら歩きます。 (Saya berjalan sambil mendengarkan musik.)",
+                "level": 1
+            },
+            {
+                "id": "99f5d108-aef9-4c2f-953e-8e6ae63aa476",
+                "front": "話す（はなす）",
+                "back": "Berbicara",
+                "extra": "日本語で少し話せます。 (Saya bisa sedikit berbicara dalam bahasa Jepang.)",
+                "level": 0
+            },
+            {
+                "id": "01d46566-4bfa-4dcb-ae34-0d13ffb4e05e",
+                "front": "買う（かう）",
+                "back": "Membeli",
+                "extra": "駅でパンを買いました。 (Saya membeli roti di stasiun.)",
+                "level": 0
+            },
+            {
+                "id": "1edd4209-f60d-4807-b67e-9352de59a6ce",
+                "front": "使う（つかう）",
+                "back": "Menggunakan",
+                "extra": "毎日スマホを使います。 (Saya menggunakan ponsel setiap hari.)",
+                "level": 0
+            },
+            {
+                "id": "72617156-5007-43e1-bd2c-a146506d0fc8",
+                "front": "待つ（まつ）",
+                "back": "Menunggu",
+                "extra": "ここで少し待ってください。 (Tolong tunggu sebentar di sini.)",
+                "level": 1
+            },
+            {
+                "id": "69578eb3-bea3-4465-90ed-9f0cd4267a71",
+                "front": "大きい（おおきい）",
+                "back": "Besar",
+                "extra": "このかばんは大きいです。 (Tas ini besar.)",
+                "level": 0
+            },
+            {
+                "id": "4bf6252c-63a9-4150-8ef6-09d5d5cee4f7",
+                "front": "小さい（ちいさい）",
+                "back": "Kecil",
+                "extra": "小さい犬が走っています。 (Anjing kecil sedang berlari.)",
+                "level": 1
+            },
+            {
+                "id": "28521b0d-65db-49a1-bc3d-c4f3a02e7787",
+                "front": "新しい（あたらしい）",
+                "back": "Baru",
+                "extra": "新しい靴を買いました。 (Saya membeli sepatu baru.)",
+                "level": 0
+            },
+            {
+                "id": "e6dac38b-e788-427a-ab1b-e786cca55efd",
+                "front": "古い（ふるい）",
+                "back": "Lama/Tua",
+                "extra": "これは古い写真です。 (Ini foto lama.)",
+                "level": 0
+            },
+            {
+                "id": "72426beb-0857-475b-894c-d46386b8cbe0",
+                "front": "高い（たかい）",
+                "back": "Mahal/Tinggi",
+                "extra": "この時計は高いです。 (Jam ini mahal.)",
+                "level": 0
+            },
+            {
+                "id": "0380d413-cbb6-42cc-b13b-a75c580710db",
+                "front": "安い（やすい）",
+                "back": "Murah",
+                "extra": "この店のラーメンは安いです。 (Ramen di toko ini murah.)",
+                "level": 0
+            },
+            {
+                "id": "4d33ea83-2a67-454b-9d7f-79a2cc4a8d36",
+                "front": "近い（ちかい）",
+                "back": "Dekat",
+                "extra": "駅はここから近いです。 (Stasiun dekat dari sini.)",
+                "level": 0
+            },
+            {
+                "id": "f7cf794d-98d2-4fd4-bb0f-96cdcfaab07f",
+                "front": "遠い（とおい）",
+                "back": "Jauh",
+                "extra": "大学は家から遠いです。 (Kampus jauh dari rumah.)",
+                "level": 0
+            },
+            {
+                "id": "ed911eb2-8dcf-44ca-a760-a6d3285fae5b",
+                "front": "楽しい（たのしい）",
+                "back": "Menyenangkan",
+                "extra": "友だちとの時間は楽しいです。 (Waktu bersama teman itu menyenangkan.)",
+                "level": 1
+            },
+            {
+                "id": "fd878f8f-8236-4163-915c-0de9ca7ec505",
+                "front": "忙しい（いそがしい）",
+                "back": "Sibuk",
+                "extra": "今週はとても忙しいです。 (Minggu ini saya sangat sibuk.)",
+                "level": 0
+            },
+            {
+                "id": "9ed5fb5a-44b7-47fc-9242-ab9034eeacf0",
+                "front": "好き（すき）",
+                "back": "Suka",
+                "extra": "私は猫が好きです。 (Saya suka kucing.)",
+                "level": 1
+            },
+            {
+                "id": "dc8b3bd1-ef97-4164-b444-07caa72f75c9",
+                "front": "嫌い（きらい）",
+                "back": "Tidak suka",
+                "extra": "私は早起きが少し嫌いです。 (Saya agak tidak suka bangun pagi.)",
+                "level": 1
+            },
+            {
+                "id": "df5ae2c3-b012-4329-ab44-02ad3566dfb3",
+                "front": "上（うえ）",
+                "back": "Atas",
+                "extra": "本は机の上にあります。 (Buku ada di atas meja.)",
+                "level": 0
+            },
+            {
+                "id": "5e6048ce-e0e4-42aa-b50a-a5342281bc7f",
+                "front": "下（した）",
+                "back": "Bawah",
+                "extra": "猫は椅子の下にいます。 (Kucing ada di bawah kursi.)",
+                "level": 1
+            },
+            {
+                "id": "9e61ba6c-4275-4b1c-8f73-1ea173466c7b",
+                "front": "中（なか）",
+                "back": "Dalam",
+                "extra": "かばんの中に財布があります。 (Di dalam tas ada dompet.)",
+                "level": 1
+            },
+            {
+                "id": "d4bc141b-5ab9-4a7e-a503-53141a965a61",
+                "front": "外（そと）",
+                "back": "Luar",
+                "extra": "外はとても寒いです。 (Di luar sangat dingin.)",
+                "level": 0
+            },
+            {
+                "id": "ac8c4279-08d2-4281-9b3d-8b4e7a27ccad",
+                "front": "右（みぎ）",
+                "back": "Kanan",
+                "extra": "コンビニは右にあります。 (Minimarket ada di sebelah kanan.)",
+                "level": 0
+            },
+            {
+                "id": "169608bb-226f-47fd-8f7b-f2870b0e1f01",
+                "front": "左（ひだり）",
+                "back": "Kiri",
+                "extra": "銀行は左にあります。 (Bank ada di sebelah kiri.)",
+                "level": 0
+            },
+            {
+                "id": "51bfed29-0cd1-4738-b462-283851c82bbb",
+                "front": "名前（なまえ）",
+                "back": "Nama",
+                "extra": "あなたの名前は何ですか。 (Siapa namamu?)",
+                "level": 0
+            },
+            {
+                "id": "779d5051-4e78-40e0-bec7-d8bc411baf1f",
+                "front": "時間（じかん）",
+                "back": "Waktu/Jam",
+                "extra": "今、時間がありますか。 (Apakah sekarang kamu punya waktu?)",
+                "level": 0
+            }
+        ],
+        "Bahasa Korea": [
+            {
+                "id": "a23343ff-d59f-47b0-9faa-98668c26923f",
+                "front": "안녕하세요",
+                "back": "Halo",
+                "extra": "Contoh: 안녕하세요, 만나서 반가워요. (Halo, senang bertemu denganmu.)",
+                "level": 0
+            },
+            {
+                "id": "5d5a169f-70af-4e69-877a-369e7a318734",
+                "front": "안녕",
+                "back": "Hai / dadah",
+                "extra": "Contoh: 안녕, 내일 보자. (Dadah, sampai jumpa besok.)",
+                "level": 0
+            },
+            {
+                "id": "dddc2950-f17e-4694-9c2d-925af4d8013f",
+                "front": "감사합니다",
+                "back": "Terima kasih",
+                "extra": "Contoh: 도와줘서 감사합니다. (Terima kasih sudah membantu.)",
+                "level": 0
+            },
+            {
+                "id": "78db48e1-9b11-4a01-ba43-cffe5eb2dfb9",
+                "front": "고마워",
+                "back": "Makasih",
+                "extra": "Contoh: 선물 고마워. (Makasih untuk hadiahnya.)",
+                "level": 1
+            },
+            {
+                "id": "4eb8b17d-e01d-44a2-90ae-11908b7e2bb1",
+                "front": "죄송합니다",
+                "back": "Maaf",
+                "extra": "Contoh: 늦어서 죄송합니다. (Maaf karena terlambat.)",
+                "level": 0
+            },
+            {
+                "id": "887c52c4-3065-4fb4-901b-00def7a50d7f",
+                "front": "미안해",
+                "back": "Maaf",
+                "extra": "Contoh: 내가 미안해. (Aku minta maaf.)",
+                "level": 0
+            },
+            {
+                "id": "369c2a1e-6101-4131-849f-78938cbc1dd2",
+                "front": "네",
+                "back": "Ya",
+                "extra": "Contoh: 네, 알겠습니다. (Ya, saya mengerti.)",
+                "level": 1
+            },
+            {
+                "id": "583b9c64-b19c-4c33-84ce-6c15b52d155d",
+                "front": "아니요",
+                "back": "Tidak",
+                "extra": "Contoh: 아니요, 괜찮아요. (Tidak, tidak apa-apa.)",
+                "level": 0
+            },
+            {
+                "id": "4d988cea-b78e-4917-b8bb-e59f83c580c6",
+                "front": "괜찮아요",
+                "back": "Tidak apa-apa",
+                "extra": "Contoh: 저는 괜찮아요. (Saya tidak apa-apa.)",
+                "level": 0
+            },
+            {
+                "id": "f751de31-f511-4af1-94c8-304244a31d60",
+                "front": "좋아요",
+                "back": "Bagus / suka",
+                "extra": "Contoh: 이 카페 좋아요. (Kafe ini bagus.)",
+                "level": 0
+            },
+            {
+                "id": "78432819-3994-4c87-8c57-4ea59480c672",
+                "front": "싫어요",
+                "back": "Tidak suka",
+                "extra": "Contoh: 저는 매운 음식이 싫어요. (Saya tidak suka makanan pedas.)",
+                "level": 0
+            },
+            {
+                "id": "cd592329-0a9b-4d32-9793-f39d956ea49b",
+                "front": "사람",
+                "back": "Orang",
+                "extra": "Contoh: 저 사람은 제 친구예요. (Orang itu teman saya.)",
+                "level": 0
+            },
+            {
+                "id": "436bf953-203f-4a57-a298-de05c8120ade",
+                "front": "친구",
+                "back": "Teman",
+                "extra": "Contoh: 오늘 친구를 만나요. (Hari ini saya bertemu teman.)",
+                "level": 0
+            },
+            {
+                "id": "c5d19f34-fca4-41ca-8cbb-61b372123a79",
+                "front": "가족",
+                "back": "Keluarga",
+                "extra": "Contoh: 주말에 가족과 밥을 먹어요. (Akhir pekan saya makan bersama keluarga.)",
+                "level": 0
+            },
+            {
+                "id": "c4e660d2-019b-41c4-802d-854eafbadcbb",
+                "front": "집",
+                "back": "Rumah",
+                "extra": "Contoh: 지금 집에 가요. (Sekarang saya pergi ke rumah.)",
+                "level": 0
+            },
+            {
+                "id": "bc34ac83-3261-492f-9e47-932b9cc674f2",
+                "front": "학교",
+                "back": "Sekolah / kampus",
+                "extra": "Contoh: 저는 학교에 있어요. (Saya ada di sekolah/kampus.)",
+                "level": 0
+            },
+            {
+                "id": "4d2cc248-9e18-4aac-94d7-beb7ed53bee4",
+                "front": "회사",
+                "back": "Perusahaan / kantor",
+                "extra": "Contoh: 아빠는 회사에 가요. (Ayah pergi ke kantor.)",
+                "level": 0
+            },
+            {
+                "id": "45fab43f-c1f4-46d4-a87d-accc6cccfa13",
+                "front": "가게",
+                "back": "Toko",
+                "extra": "Contoh: 저 가게가 유명해요. (Toko itu terkenal.)",
+                "level": 0
+            },
+            {
+                "id": "75cdaf1b-7c11-49b0-b361-a5392c5506ab",
+                "front": "식당",
+                "back": "Restoran",
+                "extra": "Contoh: 우리는 식당에서 점심을 먹어요. (Kami makan siang di restoran.)",
+                "level": 0
+            },
+            {
+                "id": "27d2eb5c-4cd6-4c09-adfc-243b933e6167",
+                "front": "카페",
+                "back": "Kafe",
+                "extra": "Contoh: 친구와 카페에 가요. (Saya pergi ke kafe dengan teman.)",
+                "level": 1
+            },
+            {
+                "id": "3d76e6c6-2490-4623-8c9f-eab016b8d2c4",
+                "front": "물",
+                "back": "Air",
+                "extra": "Contoh: 물 좀 주세요. (Tolong beri saya air.)",
+                "level": 1
+            },
+            {
+                "id": "7144b4f5-fdbe-43d1-9839-0e75c7476296",
+                "front": "밥",
+                "back": "Nasi / makan",
+                "extra": "Contoh: 밥 먹었어요? (Sudah makan?)",
+                "level": 0
+            },
+            {
+                "id": "009f307e-9958-4d5c-b79e-f5de488af80f",
+                "front": "음식",
+                "back": "Makanan",
+                "extra": "Contoh: 한국 음식이 맛있어요. (Makanan Korea enak.)",
+                "level": 0
+            },
+            {
+                "id": "6f81c06d-40f3-46b4-a722-ec5cb5ba71b0",
+                "front": "커피",
+                "back": "Kopi",
+                "extra": "Contoh: 아침에 커피를 마셔요. (Saya minum kopi di pagi hari.)",
+                "level": 0
+            },
+            {
+                "id": "4528d937-83b3-46db-a992-f7c7fbc2dd07",
+                "front": "차",
+                "back": "Teh / mobil",
+                "extra": "Contoh: 저는 따뜻한 차를 마셔요. (Saya minum teh hangat.)",
+                "level": 1
+            },
+            {
+                "id": "017892ac-ded0-47ae-8d79-e23cca99a5ed",
+                "front": "돈",
+                "back": "Uang",
+                "extra": "Contoh: 지갑에 돈이 없어요. (Tidak ada uang di dompet.)",
+                "level": 0
+            },
+            {
+                "id": "0f348c18-28aa-4432-98ab-3642f94f0f4d",
+                "front": "시간",
+                "back": "Waktu",
+                "extra": "Contoh: 지금 시간이 있어요? (Apakah sekarang ada waktu?)",
+                "level": 0
+            },
+            {
+                "id": "54de9d30-7b6d-473f-b575-718cc505da10",
+                "front": "오늘",
+                "back": "Hari ini",
+                "extra": "Contoh: 오늘 날씨가 좋아요. (Cuaca hari ini bagus.)",
+                "level": 1
+            },
+            {
+                "id": "2bab3021-3d14-4d0a-bc4a-205c3866f427",
+                "front": "내일",
+                "back": "Besok",
+                "extra": "Contoh: 내일 만나요. (Sampai bertemu besok.)",
+                "level": 0
+            },
+            {
+                "id": "12b738c4-99c1-4a20-a017-1a07f2295806",
+                "front": "어제",
+                "back": "Kemarin",
+                "extra": "Contoh: 어제 영화를 봤어요. (Kemarin saya menonton film.)",
+                "level": 0
+            },
+            {
+                "id": "e61b2929-0089-462f-bf05-c3ec509529ff",
+                "front": "지금",
+                "back": "Sekarang",
+                "extra": "Contoh: 지금 뭐 해요? (Sekarang sedang apa?)",
+                "level": 0
+            },
+            {
+                "id": "7309ce6c-f69e-4f2b-94f1-e9b22cd8f24c",
+                "front": "나",
+                "back": "Aku",
+                "extra": "Contoh: 나는 학생이에요. (Aku adalah pelajar/mahasiswa.)",
+                "level": 0
+            },
+            {
+                "id": "aa173f56-9c26-4b3b-be05-ad5a410fd5a2",
+                "front": "너",
+                "back": "Kamu",
+                "extra": "Contoh: 너는 어디에 가? (Kamu pergi ke mana?)",
+                "level": 1
+            },
+            {
+                "id": "0d7f4f11-e488-43bb-ab68-5d58c3f7c458",
+                "front": "우리",
+                "back": "Kami / kita",
+                "extra": "Contoh: 우리는 같이 공부해요. (Kami belajar bersama.)",
+                "level": 0
+            },
+            {
+                "id": "e996bcfe-09b5-42c9-95b0-2db9c157ef76",
+                "front": "이것",
+                "back": "Ini",
+                "extra": "Contoh: 이것은 제 책이에요. (Ini buku saya.)",
+                "level": 0
+            },
+            {
+                "id": "078bab17-7c37-4f8c-8c29-85579189435d",
+                "front": "그것",
+                "back": "Itu",
+                "extra": "Contoh: 그것은 너무 비싸요. (Itu terlalu mahal.)",
+                "level": 0
+            },
+            {
+                "id": "68006e28-c255-4c3f-a325-f266390a81bf",
+                "front": "여기",
+                "back": "Di sini",
+                "extra": "Contoh: 여기 앉아도 돼요? (Boleh duduk di sini?)",
+                "level": 1
+            },
+            {
+                "id": "63ad7629-58d6-44b5-8683-b373283459a5",
+                "front": "거기",
+                "back": "Di situ",
+                "extra": "Contoh: 거기에 가방이 있어요. (Ada tas di situ.)",
+                "level": 0
+            },
+            {
+                "id": "02260804-214c-43ea-92c1-23c4c41b71f9",
+                "front": "어디",
+                "back": "Di mana",
+                "extra": "Contoh: 화장실이 어디예요? (Toiletnya di mana?)",
+                "level": 1
+            },
+            {
+                "id": "e4071772-446d-43de-bb18-6e845971075a",
+                "front": "무엇",
+                "back": "Apa",
+                "extra": "Contoh: 이것은 무엇이에요? (Ini apa?)",
+                "level": 0
+            },
+            {
+                "id": "f497ed05-8c4d-4c38-b997-6cab8fb4bdc3",
+                "front": "왜",
+                "back": "Kenapa",
+                "extra": "Contoh: 왜 늦었어요? (Kenapa terlambat?)",
+                "level": 1
+            },
+            {
+                "id": "4f7f5910-ffc5-48f1-9cce-8d3216905312",
+                "front": "언제",
+                "back": "Kapan",
+                "extra": "Contoh: 언제 시간이 있어요? (Kapan ada waktu?)",
+                "level": 0
+            },
+            {
+                "id": "7e01b365-32e9-4ae6-9454-362a5b30e53a",
+                "front": "가다",
+                "back": "Pergi",
+                "extra": "Contoh: 저는 학교에 가요. (Saya pergi ke sekolah/kampus.)",
+                "level": 1
+            },
+            {
+                "id": "77089d45-9487-45d0-8d36-298cfa0997f9",
+                "front": "오다",
+                "back": "Datang",
+                "extra": "Contoh: 친구가 집에 와요. (Teman datang ke rumah.)",
+                "level": 0
+            },
+            {
+                "id": "324088ca-9892-48e1-8c7e-238f33d8e7ba",
+                "front": "먹다",
+                "back": "Makan",
+                "extra": "Contoh: 저는 김밥을 먹어요. (Saya makan kimbap.)",
+                "level": 0
+            },
+            {
+                "id": "0c699cbb-43eb-425a-8f53-4f0819e4ed57",
+                "front": "마시다",
+                "back": "Minum",
+                "extra": "Contoh: 동생은 우유를 마셔요. (Adik minum susu.)",
+                "level": 0
+            },
+            {
+                "id": "f5937d09-b79d-4128-950e-150a970c95ea",
+                "front": "보다",
+                "back": "Melihat / menonton",
+                "extra": "Contoh: 오늘 드라마를 봐요. (Hari ini saya menonton drama.)",
+                "level": 0
+            },
+            {
+                "id": "455cb539-8da6-4551-86ac-64b9f1785358",
+                "front": "사다",
+                "back": "Membeli",
+                "extra": "Contoh: 시장에서 과일을 사요. (Saya membeli buah di pasar.)",
+                "level": 1
+            },
+            {
+                "id": "cb9238a7-41e3-443e-86f4-fab86ead3704",
+                "front": "있다",
+                "back": "Ada / punya",
+                "extra": "Contoh: 저는 시간이 있어요. (Saya punya waktu.)",
+                "level": 0
+            },
+            {
+                "id": "02a7bf5e-ab0e-45a8-ade7-9249d8e1c8af",
+                "front": "없다",
+                "back": "Tidak ada / tidak punya",
+                "extra": "Contoh: 오늘 수업이 없어요. (Hari ini tidak ada kelas.)",
+                "level": 0
+            }
+        ],
+        "Test": [
+            {
+                "id": "6e42abe9-484d-423c-929f-87228169102d",
+                "front": "Halo",
+                "back": "Sapaan",
+                "extra": "digunakan untuk menyapa orang",
+                "level": 1
+            }
+        ],
+        "German": []
+    }
+}

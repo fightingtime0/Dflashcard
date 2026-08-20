@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="decks">Deck</string>
+    <string name="new_deck">Deck baru</string>
+    <string name="deck_name">Nama deck</string>
+    <string name="rename">Ganti nama</string>
+    <string name="delete">Hapus</string>
+    <string name="cancel">Batal</string>
+    <string name="save">Simpan</string>
+    <string name="back">Kembali</string>
+    <string name="more">Opsi lainnya</string>
+
+    <string name="no_decks">Belum ada deck.\nKetuk + untuk membuat.</string>
+    <string name="no_cards">Deck ini kosong.\nKetuk + untuk menambah kartu.</string>
+
+    <plurals name="card_count">
+        <item quantity="other">%d kartu</item>
+    </plurals>
+    <string name="due_count">%d jatuh tempo</string>
+
+    <string name="new_card">Kartu baru</string>
+    <string name="edit_card">Edit kartu</string>
+    <string name="front">Depan (pertanyaan)</string>
+    <string name="back_field">Belakang (jawaban)</string>
+    <string name="extra">Penjelasan / contoh (opsional)</string>
+
+    <string name="delete_deck_title">Hapus deck?</string>
+    <string name="delete_deck_body">\"%s\" beserta semua kartunya akan dihapus.</string>
+    <string name="delete_card_title">Hapus kartu?</string>
+    <string name="delete_card_body">Kartu ini akan dihapus dari deck.</string>
+
+    <string name="import_json">Impor JSON</string>
+    <string name="import_done">Berhasil mengimpor %1$d kartu ke %2$d deck.</string>
+    <string name="import_failed">Impor gagal: %s</string>
+
+    <string name="cards_action">Kartu</string>
+    <string name="tap_to_flip">Ketuk untuk membalik</string>
+    <string name="cards_left">%d tersisa</string>
+    <string name="rating_again">Ulangi</string>
+    <string name="rating_hard">Sulit</string>
+    <string name="rating_good">Bisa</string>
+    <string name="rating_easy">Mudah</string>
+    <string name="nothing_due">Belum ada yang jatuh tempo.</string>
+    <string name="session_complete">Sesi selesai</string>
+    <string name="reviewed_summary">%d kartu direview</string>
+    <string name="lapsed_summary">%d perlu diulang</string>
+    <string name="browse_cards">Lihat kartu</string>
+    <string name="interval_soon">10mnt</string>
+    <string name="interval_days">%dh</string>
+    <string name="interval_months">%dbln</string>
+    <string name="interval_years">%dth</string>
+
+    <string name="import_file">Impor berkas</string>
+    <string name="export_backup">Ekspor cadangan</string>
+    <string name="export_done">Cadangan tersimpan.</string>
+    <string name="export_failed">Ekspor gagal: %s</string>
+    <string name="daily_reminder">Pengingat harian</string>
+    <string name="reminder_enable">Ingatkan saya setiap hari</string>
+    <string name="speak">Putar pelafalan</string>
+    <string name="channel_reviews">Pengingat review</string>
+    <plurals name="reminder_body">
+        <item quantity="other">%d kartu menunggu untuk direview.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">D\'flashcard</string>
+
+    <string name="decks">Decks</string>
+    <string name="new_deck">New deck</string>
+    <string name="deck_name">Deck name</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="more">More options</string>
+
+    <string name="no_decks">No decks yet.\nTap + to create one.</string>
+    <string name="no_cards">This deck is empty.\nTap + to add a card.</string>
+
+    <plurals name="card_count">
+        <item quantity="one">%d card</item>
+        <item quantity="other">%d cards</item>
+    </plurals>
+    <string name="due_count">%d due</string>
+
+    <string name="new_card">New card</string>
+    <string name="edit_card">Edit card</string>
+    <string name="front">Front (question)</string>
+    <string name="back_field">Back (answer)</string>
+    <string name="extra">Notes / example (optional)</string>
+
+    <string name="delete_deck_title">Delete deck?</string>
+    <string name="delete_deck_body">\"%s\" and all of its cards will be removed.</string>
+    <string name="delete_card_title">Delete card?</string>
+    <string name="delete_card_body">This card will be removed from the deck.</string>
+
+    <string name="import_json">Import JSON</string>
+    <string name="import_done">Imported %1$d cards into %2$d decks.</string>
+    <string name="import_failed">Import failed: %s</string>
+
+    <string name="cards_action">Cards</string>
+    <string name="tap_to_flip">Tap to flip</string>
+    <string name="cards_left">%d left</string>
+    <string name="rating_again">Again</string>
+    <string name="rating_hard">Hard</string>
+    <string name="rating_good">Good</string>
+    <string name="rating_easy">Easy</string>
+    <string name="nothing_due">Nothing due right now.</string>
+    <string name="session_complete">Session complete</string>
+    <string name="reviewed_summary">%d reviewed</string>
+    <string name="lapsed_summary">%d to repeat</string>
+    <string name="browse_cards">Browse cards</string>
+    <string name="interval_soon">10m</string>
+    <string name="interval_days">%dd</string>
+    <string name="interval_months">%dmo</string>
+    <string name="interval_years">%dy</string>
+
+    <string name="import_file">Import file</string>
+    <string name="export_backup">Export backup</string>
+    <string name="export_done">Backup saved.</string>
+    <string name="export_failed">Export failed: %s</string>
+    <string name="daily_reminder">Daily reminder</string>
+    <string name="reminder_enable">Remind me every day</string>
+    <string name="speak">Play pronunciation</string>
+    <string name="channel_reviews">Review reminders</string>
+    <plurals name="reminder_body">
+        <item quantity="one">%d card is waiting for review.</item>
+        <item quantity="other">%d cards are waiting for review.</item>
+    </plurals>
+</resources>
